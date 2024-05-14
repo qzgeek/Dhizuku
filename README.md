@@ -4,7 +4,9 @@
 
 # 目录
 
-##【老教程】Dhizuku使用教程
+## Dhizuku使用教程【老教程】
+
+- 包含未撰写部分的内容
 
 - [Bilibili](https://b23.tv/c5GuPPR)
 - [Github](https://github.com/qzgeek/Dhizuku/blob/main/Error.md)
