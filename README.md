@@ -1,6 +1,6 @@
 # Dhizuku用户手册
 
-非官方Dhizuku用户使用教程
+非官方Dhizuku用户使用教程，转载请标明出处
 
 # 目录
 
@@ -25,6 +25,8 @@
 
 - [Shizuku用户手册](https://shizuku.rikka.app/zh-hans/guide/setup/)
 - [编者推荐](https://b23.tv/aUEo3cP)
+- [前往Bing搜索](https://www.bing.com/search?q=%E6%80%8E%E6%A0%B7%E6%BF%80%E6%B4%BBShizuku)
+- [前往Google搜索](https://www.google.com/search?q=%E5%A6%82%E4%BD%95%E6%BF%80%E6%B4%BBShizuku)
 
 ## 参、撰写中
 
