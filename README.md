@@ -62,8 +62,7 @@ Android 9.0 ~ 14（测试中）
 
 # 参考原文
 
-改编自
-- [官方文章](https://github.com/iamr0s/Dhizuku)
+改编自[官方文章](https://github.com/iamr0s/Dhizuku)
 
 ## 致开发者（接入Dhizuku API）
 
