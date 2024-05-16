@@ -1,8 +1,7 @@
 # Dhizuku用户手册
 
 非官方Dhizuku用户使用教程，转载请标明出处
-![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=${qzgeek.dhizuku})
-
+![统计](https://komarev.com/ghpvc/?username=qzgeek)
 # 目录
 
 ## Dhizuku使用教程【老教程】
