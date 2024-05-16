@@ -1,6 +1,7 @@
 # Dhizuku用户手册
 
 非官方Dhizuku用户使用教程，转载请标明出处
+![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
 
 # 目录
 
