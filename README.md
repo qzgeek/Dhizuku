@@ -35,7 +35,9 @@
 
 # Dhizuku下载
 
-- [官方releases](https://github.com/iamr0s/Dhizuku/releases/tag)
+- [官方releases](https://github.com/iamr0s/Dhizuku/releases)
+- [蓝奏云·密码0000](https://xcgeek.lanzoum.com/tp/iYVEK201jdab)
+- [123云盘](https://www.123pan.com/s/Lb70Vv-UtvAA.html)
 
 # 介绍
 
