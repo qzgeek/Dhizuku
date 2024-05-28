@@ -61,14 +61,17 @@ Android 9.0 ~ 14（测试中）
 
 # 软件开发者
 
-**R0S**
+- **R0S**
+
 [Github](https://github.com/iamr0s)
 
 # 本文编者
 
-**黔中极客**
+- **黔中极客**
+
 [Github](https://github.com/qzgeek)
 [Bilibili](https://space.bilibili.com/620655009)
+[E-mail](xcgeek@163.com)
 
 # 参考原文
 
