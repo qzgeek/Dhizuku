@@ -33,6 +33,10 @@
 
 敬请期待
 
+# Dhizuku下载
+
+- [官方releases](https://github.com/iamr0s/Dhizuku/releases/tag)
+
 # 介绍
 
 参考Shizuku的设计思想，分享 DeviceOwner (设备所有者) 权限给其余应用
