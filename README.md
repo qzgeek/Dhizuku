@@ -70,8 +70,8 @@ Android 9.0 ~ 14（测试中）
 - **黔中极客**
 
 [Github](https://github.com/qzgeek)
+
 [Bilibili](https://space.bilibili.com/620655009)
-[E-mail](xcgeek@163.com)
 
 # 参考原文
 
