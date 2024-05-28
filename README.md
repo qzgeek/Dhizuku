@@ -65,7 +65,8 @@ Android 9.0 ~ 14（测试中）
 
 # 本文编者
 
-黔中极客
+#### 黔中极客
+
 - [Github](https://github.com/qzgeek)
 - [Bilibili](https://space.bilibili.com/620655009)
 
