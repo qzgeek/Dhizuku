@@ -24,6 +24,10 @@
 
 - [Github](https://github.com/qzgeek/Dhizuku/blob/main/2.1.账户.md)
 
+### 2.2 报错
+
+- [Github](https://github.com/qzgeek/Dhizuku/blob/main/2.2.报错自纠.md)
+
 ### 附：Shizuku激活相关
 
 - [Shizuku用户手册](https://shizuku.rikka.app/zh-hans/guide/setup/)
