@@ -18,7 +18,7 @@
 
 ## 2. 激活
 
-- [Github](https://github.com/qzgeek/Dhizuku/blob/main/2.激活.md)
+- [Github](https://github.com/qzgeek/Dhizuku/blob/main/2.0.激活.md)
 
 ### 2.1 账户
 
