@@ -12,15 +12,17 @@
 - [Bilibili](https://b23.tv/c5GuPPR)
 - [Github](https://github.com/qzgeek/Dhizuku/blob/main/Error.md)
 
-## 壹、前言
+## 1. 前言
 
-- [Bilibili](https://b23.tv/A31FPdf)
-- [Github](https://github.com/qzgeek/Dhizuku/blob/main/Error.md)
+- [Github](https://github.com/qzgeek/Dhizuku/blob/main/1.前言.md)
 
-## 贰、激活
+## 2. 激活
 
-- [Bilibili](https://b23.tv/8kfk5gc)
-- [Github](https://github.com/qzgeek/Dhizuku/blob/main/Error.md)
+- [Github](https://github.com/qzgeek/Dhizuku/blob/main/2.激活.md)
+
+### 2.1 账户
+
+- [Github](https://github.com/qzgeek/Dhizuku/blob/main/2.1.账户.md)
 
 ### 附：Shizuku激活相关
 
