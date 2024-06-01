@@ -4,10 +4,12 @@
 ![Dhizuku用户手册](https://img2.imgtp.com/2024/05/17/ZzkmnWo4.jpg)
 
 <p align="center">
-  
-![被访问次数](https://komarev.com/ghpvc/?username=qzgeek)
-
+Write by 黔中极客（QZGeek）
 </p>
+
+**本页面访问人次**
+
+![被访问次数](https://komarev.com/ghpvc/?username=qzgeek)
 
 # 目录
 
