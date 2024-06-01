@@ -3,7 +3,7 @@
 非官方Dhizuku用户使用教程，转载请标明出处
 ![Dhizuku用户手册](https://img2.imgtp.com/2024/05/17/ZzkmnWo4.jpg)
 
-<p[空格]align="center">
+<p align="center">
 ![被访问次数](https://komarev.com/ghpvc/?username=qzgeek)
 </p>
 
