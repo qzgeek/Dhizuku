@@ -12,13 +12,6 @@ Write by 黔中极客（QZGeek）
 
 # 目录
 
-## Dhizuku使用教程【老教程】
-
-包含未撰写部分的内容
-
-- [Bilibili](https://b23.tv/c5GuPPR)
-- [Github](https://github.com/qzgeek/Dhizuku/blob/main/Error.md)
-
 ## 1. 前言
 
 - [Github](https://github.com/qzgeek/Dhizuku/blob/main/1.前言.md)
@@ -46,13 +39,22 @@ Write by 黔中极客（QZGeek）
 
 敬请期待
 
-# Dhizuku下载
+## Dhizuku使用教程【老教程】
+
+包含未撰写部分的内容
+
+- [Bilibili](https://b23.tv/c5GuPPR)
+- [Github](https://github.com/qzgeek/Dhizuku/blob/main/Error.md)
+
+# 其他
+
+## Dhizuku下载
 
 - [官方releases](https://github.com/iamr0s/Dhizuku/releases)
 - [蓝奏云·密码0000](https://xcgeek.lanzoum.com/tp/iYVEK201jdab)
 - [123云盘](https://www.123pan.com/s/Lb70Vv-UtvAA.html)
 
-# 介绍
+## 介绍
 
 参考Shizuku的设计思想，分享 DeviceOwner (设备所有者) 权限给其余应用
 
@@ -72,13 +74,13 @@ Android 9.0 ~ 14（测试中）
 
 不过听闻通过应用转生可以使低版本安卓也能正常使用进阶适配方案，暂时未验证可行性，需要者可自行尝试。
 
-# 软件开发者
+## 软件开发者
 
 - **R0S**
 
 [Github](https://github.com/iamr0s)
 
-# 本文编者
+## 本文编者
 
 - **黔中极客**
 
@@ -86,7 +88,7 @@ Android 9.0 ~ 14（测试中）
 
 [Bilibili](https://space.bilibili.com/620655009)
 
-# 参考原文
+## 参考原文
 
 改编自[官方文章](https://github.com/iamr0s/Dhizuku)
 
