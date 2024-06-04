@@ -1,4 +1,4 @@
- —简体中文- ｜ [English](README_en.md)
+# —简体中文- ｜ [English](README_en.md)
 
 # Dhizuku用户手册
 
