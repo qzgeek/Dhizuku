@@ -1,3 +1,5 @@
+« 简体中文 »‖ [-English-](README_ed)
+
 # Dhizuku用户手册
 
 非官方Dhizuku用户使用教程，转载请标明出处
