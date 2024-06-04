@@ -8,4 +8,4 @@ I will try to use a translator to translate this article in the future, but it w
 
 If you need to read this article, it is recommended to open the screen translator and understand Hooray!
 
-- [Go back](README.md)
+- [Go back](https://github.com/qzgeek/Dhizuku)
