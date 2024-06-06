@@ -18,17 +18,25 @@ Write by 黔中极客（QZGeek）
 
 - [Github](https://github.com/qzgeek/Dhizuku/blob/main/1.前言.md)
 
+- [Gitee](https://gitee.com/qzgeek/Dhizuku/blob/main/1.前言.md)
+
 ## 2. 激活
 
 - [Github](https://github.com/qzgeek/Dhizuku/blob/main/2.0.激活.md)
+
+- [Gitee](https://gitee.com/qzgeek/Dhizuku/blob/main/2.0.激活.md)
 
 ### 2.1 账户
 
 - [Github](https://github.com/qzgeek/Dhizuku/blob/main/2.1.账户.md)
 
+- [Gitee](https://gitee.com/qzgeek/Dhizuku/blob/main/2.1.账户.md)
+
 ### 2.2 报错
 
 - [Github](https://github.com/qzgeek/Dhizuku/blob/main/2.2.报错自纠.md)
+
+- [Gitee](https://gitee.com/qzgeek/Dhizuku/blob/main/2.2.报错自纠.md)
 
 ### 附：Shizuku激活相关
 
