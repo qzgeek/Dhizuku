@@ -12,11 +12,13 @@ Write by 黔中极客（QZGeek）
 **本页面访问人次**
 ![被访问次数](https://komarev.com/ghpvc/?username=qzgeek)
 
+中国大陆如若访问较慢，则建议跳转[Gitee](https://gitee.com/qzgeek/Dhizuku)阅读
+
 # 目录
 
 ## 1. 前言
 
-- [Github](https://github.com/qzgeek/Dhizuku/blob/main/1.前言.md)
+- [Github](https://github.com/qzgeek/Dhizukublob/main/1.前言.md)
 
 - [Gitee](https://gitee.com/qzgeek/Dhizuku/blob/main/1.前言.md)
 
