@@ -18,7 +18,7 @@ Write by 黔中极客（QZGeek）
 
 ## 1. 前言
 
-- [Github](https://github.com/qzgeek/Dhizukublob/main/1.前言.md)
+- [Github](https://github.com/qzgeek/Dhizuku/blob/main/1.前言.md)
 
 - [Gitee](https://gitee.com/qzgeek/Dhizuku/blob/main/1.前言.md)
 
