@@ -7,4 +7,4 @@
 
 实在是抱歉，但我真的懒，如有需要请自己动手
 
-- [__（:зゝ∠）__](https://github.com/qzgeek/Dhizuku)
+- [___（:зゝ∠）___](https://github.com/qzgeek/Dhizuku)
