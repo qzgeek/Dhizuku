@@ -74,7 +74,7 @@ Write by 黔中极客（QZGeek）
 
 - [官方发布页](https://github.com/qzgeek/Dhizuku/blob/main/Error.md)
 - [蓝奏云](https://xcgeek.lanzouv.com/i0cej22ah3af)
-- [123云盘](https://www.123pan.com/s/Lb70Vv-bxdAA.html)
+- [123云盘](https://www.123pan.com/tp/Lb70Vv-bxdAA.html)
 
 ## 介绍
 
