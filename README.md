@@ -60,11 +60,20 @@ Write by 黔中极客（QZGeek）
 
 # 其他
 
-## Dhizuku下载
+## 资源下载
+
+**如有密码0000**
+
+### Dhizuku下载
 
 - [官方releases](https://github.com/iamr0s/Dhizuku/releases)
-- [蓝奏云·密码0000](https://xcgeek.lanzoum.com/tp/iYVEK201jdab)
+- [蓝奏云](https://xcgeek.lanzoum.com/tp/iYVEK201jdab)
 - [123云盘](https://www.123pan.com/s/Lb70Vv-UtvAA.html)
+
+### DAX模块下载
+
+- [蓝奏云](https://xcgeek.lanzouv.com/i0cej22ah3af)
+- [123云盘](https://www.123pan.com/s/Lb70Vv-bxdAA.html)
 
 ## 介绍
 
