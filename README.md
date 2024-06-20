@@ -73,7 +73,7 @@ Write by 黔中极客（QZGeek）
 ### DAX模块下载
 
 - [官方发布页](https://github.com/qzgeek/Dhizuku/blob/main/Error.md)
-- [蓝奏云](https://xcgeek.lanzouv.com/i0cej22ah3af)
+- [蓝奏云](https://xcgeek.lanzouv.com/tp/i0cej22ah3af)
 - [123云盘](https://www.123pan.com/tp/Lb70Vv-bxdAA.html)
 
 ## 介绍
