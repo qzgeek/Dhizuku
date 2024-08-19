@@ -4,7 +4,7 @@
 
 非官方Dhizuku用户使用教程
 
-本文依照知识共享许可协议（CC协议）4.0版开放
+本仓库下所以md文件文章依照知识共享许可协议（CC协议）4.0版开放
 ![Dhizuku用户手册](https://i0.hdslb.com/bfs/new_dyn/ca9223048563662e3190cb1bdad1e983620655009.jpg@1053w_1053h_1c.webp)
 
 <p align="center">
