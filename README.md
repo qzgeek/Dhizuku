@@ -69,21 +69,16 @@ Write by 黔中极客（QZGeek）
 
 ### Dhizuku下载
 
-v2.8
+- [官方最新版](https://github.com/iamr0s/Dhizuku/releases/latest)
 
 - [官方releases](https://github.com/iamr0s/Dhizuku/releases)
-- [蓝奏云](https://xcgeek.lanzoum.com/tp/iYVEK201jdab)
-- [123云盘](https://www.123pan.com/s/Lb70Vv-UtvAA.html)
-
 ### DAX模块下载
-
-v1.6
 
 作者刚发布没几分钟就被我看到了，真tm巧
 
-- [官方发布页](https://github.com/iamr0s/Dhizuku-API-Xposed)
-- [蓝奏云](https://xcgeek.lanzouv.com/tp/iiEZl22aikng)
-- [123云盘](https://www.123pan.com/s/Lb70Vv-ZxdAA.html)
+- [官方最新版](https://github.com/iamr0s/Dhizuku-API-Xposed/releases/latest)
+
+- [官方releases](https://github.com/iamr0s/Dhizuku-API-Xposed/releases)
 
 ## 介绍
 
