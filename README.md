@@ -9,7 +9,7 @@
 ![Dhizuku用户手册](https://i0.hdslb.com/bfs/new_dyn/ca9223048563662e3190cb1bdad1e983620655009.jpg@1053w_1053h_1c.webp)
 
 <p align="center">
-Write by 黔中极客（QZGeek）
+Write by [黔中极客](https://qzgeek.cn)
 </p>
 
 **本页面访问人次**
